@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HitungGaji {
+public class Gaji {
     static int masaKerja;
 
     public static int hitungGaji() {
